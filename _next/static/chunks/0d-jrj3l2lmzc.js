@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,63167,t=>{"use strict";var e=t.i(43476);t.s(["default",0,function({children:t,className:a=""}){return(0,e.jsx)("div",{className:`mx-auto w-full max-w-[1400px] px-[var(--container-px)] ${a}`,children:t})}])}]);
